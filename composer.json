@@ -1,0 +1,17 @@
+{
+    "name": "mark/tongol",
+    "autoload": {
+        "psr-4": {
+            "Mark\\Tongol\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rxndb",
+            "email": "ocampo.joshuag@gmail.com"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.6"
+    }
+}
